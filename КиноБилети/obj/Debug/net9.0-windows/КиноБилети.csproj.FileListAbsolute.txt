@@ -1,0 +1,16 @@
+C:\saaaaaaaaaaaait\КиноБилети\КиноБилети\obj\Debug\net9.0-windows\КиноБилети.csproj.GenerateResource.cache
+C:\saaaaaaaaaaaait\КиноБилети\КиноБилети\obj\Debug\net9.0-windows\КиноБилети.GeneratedMSBuildEditorConfig.editorconfig
+C:\saaaaaaaaaaaait\КиноБилети\КиноБилети\obj\Debug\net9.0-windows\КиноБилети.AssemblyInfoInputs.cache
+C:\saaaaaaaaaaaait\КиноБилети\КиноБилети\obj\Debug\net9.0-windows\КиноБилети.AssemblyInfo.cs
+C:\saaaaaaaaaaaait\КиноБилети\КиноБилети\obj\Debug\net9.0-windows\КиноБилети.csproj.CoreCompileInputs.cache
+C:\saaaaaaaaaaaait\КиноБилети\КиноБилети\bin\Debug\net9.0-windows\КиноБилети.exe
+C:\saaaaaaaaaaaait\КиноБилети\КиноБилети\bin\Debug\net9.0-windows\КиноБилети.deps.json
+C:\saaaaaaaaaaaait\КиноБилети\КиноБилети\bin\Debug\net9.0-windows\КиноБилети.runtimeconfig.json
+C:\saaaaaaaaaaaait\КиноБилети\КиноБилети\bin\Debug\net9.0-windows\КиноБилети.dll
+C:\saaaaaaaaaaaait\КиноБилети\КиноБилети\bin\Debug\net9.0-windows\КиноБилети.pdb
+C:\saaaaaaaaaaaait\КиноБилети\КиноБилети\obj\Debug\net9.0-windows\TheaterTicketSystem.Form1.resources
+C:\saaaaaaaaaaaait\КиноБилети\КиноБилети\obj\Debug\net9.0-windows\КиноБилети.dll
+C:\saaaaaaaaaaaait\КиноБилети\КиноБилети\obj\Debug\net9.0-windows\refint\КиноБилети.dll
+C:\saaaaaaaaaaaait\КиноБилети\КиноБилети\obj\Debug\net9.0-windows\КиноБилети.pdb
+C:\saaaaaaaaaaaait\КиноБилети\КиноБилети\obj\Debug\net9.0-windows\КиноБилети.genruntimeconfig.cache
+C:\saaaaaaaaaaaait\КиноБилети\КиноБилети\obj\Debug\net9.0-windows\ref\КиноБилети.dll
